@@ -4,16 +4,13 @@ Primera página web hecha con Node.js y publicada eb Heroku.
 
 Utiliza:
 
--> express
--> handleBars (hbs)
--> helpers
--> bootstrap
--> heroku
+- express
+- handleBars (hbs)
+- helpers
+- bootstrap
+- heroku
 
-La url de heroku es:
-```
-https://aiperios-sample1.herokuapp.com
-```
+Se puede visualizar por [Heroku] (https://aiperios-sample1.herokuapp.com)
 
 ### Para poder ejecutar en local, hacer lo de siempre:
 ```
