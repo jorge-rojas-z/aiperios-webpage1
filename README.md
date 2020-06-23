@@ -10,7 +10,7 @@ Utiliza:
 - bootstrap
 - heroku
 
-Se puede visualizar por [Heroku] (https://aiperios-sample1.herokuapp.com)
+Se puede visualizar por [Heroku](https://aiperios-sample1.herokuapp.com)
 
 ### Para poder ejecutar en local, hacer lo de siempre:
 ```
